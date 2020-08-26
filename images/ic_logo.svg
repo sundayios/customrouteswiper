@@ -1,0 +1,11 @@
+<svg id="首页图标_选中状态" data-name="首页图标 选中状态" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29.973" height="29.699" viewBox="0 0 29.973 29.699">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.082" y1="1.189" x2="0.7" y2="-0.236" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#db0964"/>
+      <stop offset="1" stop-color="#4a1c6e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.154" y1="0.818" x2="0.915" y2="-0.034" xlink:href="#linear-gradient"/>
+  </defs>
+  <path id="路径_49" data-name="路径 49" style="fill: url(#linear-gradient);" d="M969.671,456.688l2.964,5.134c6.63,11.483,18.018-10.251,25.028-12.116h-4.111C982.232,449.706,980.724,467.482,969.671,456.688Z" transform="translate(-969.671 -449.706)"/>
+  <path id="路径_50" data-name="路径 50" style="fill: url(#linear-gradient-2);" d="M1066.362,517.044l5.2,9.007c.91,1.575,2.4,1.575,3.307,0L1089.1,501.4C1083.856,502.319,1077.368,517.044,1066.362,517.044Z" transform="translate(-1059.129 -497.534)"/>
+</svg>
